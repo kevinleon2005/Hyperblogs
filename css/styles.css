@@ -2,7 +2,7 @@ body
 {
     text-align: center;
     font-family: times 'Times New Roman', Times, serif;
-    background: rgb(7, 115, 129);
+    background: black;
     color: #ddd;
     font-size: 16px;
     margin: 0;
@@ -13,10 +13,14 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 1px solid red;
     margin: 0 auto;
 }
 #container h1 
 {
     font-size: 20px;
+    color: yellow;
+}
+#container p {
+    color: blue;
 }
